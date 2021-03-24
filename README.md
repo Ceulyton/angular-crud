@@ -16,7 +16,7 @@ To run the project, you will need to install / use the following programs:
 * [Angular Material UI](https://material.angular.io/)
 * [Visual Studio Code](https://code.visualstudio.com/download)
 
-## Desenvolvimento
+## Development
 * **Backend**: API built on JSON-Server. JSON-Server is an npm package used to create a REST JSON webservice simulating an API.
 
 * **Website**: The website frontend was created using Angular.
