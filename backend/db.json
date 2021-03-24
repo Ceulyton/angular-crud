@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Usuário 1",
+      "office": "Desenvolvedor react "
+    },
+    {
+      "id": 3,
+      "name": "Usuário 2",
+      "office": "Desenvolvedor .net"
+    },
+    {
+      "id": 4,
+      "name": "Usuário 3",
+      "office": "Desenvolvedor angular"
+    }
+  ]
+}

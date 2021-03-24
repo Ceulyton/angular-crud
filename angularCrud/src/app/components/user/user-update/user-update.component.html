@@ -1,0 +1,25 @@
+<mat-card>
+    <mat-card-title>Novo Usuário</mat-card-title>
+    <form>
+        <mat-form-field>
+            <input matInput placeholder="Nome" 
+            [(ngModel)]="user.name" name="name">    
+        </mat-form-field>
+
+        <mat-form-field>
+            <input matInput placeholder="Cargo"  
+            [(ngModel)]="user.office" name="office">
+        </mat-form-field>
+    </form>
+    <button mat-raised-button (click)="updateUser()" color="primary">
+        Atualizar
+    </button>
+    
+    <button mat-raised-button (click)="cancel()">
+        Cancelar
+    </button>
+</mat-card>
+
+<!-- [(ngModel)]="user.name"
+     [(ngModel)]="user.office"
+-->
