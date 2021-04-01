@@ -1,4 +1,4 @@
-# angular-crud
+# crud
 ## ![](/angularCrud/src/assets/img/crud.png)
 
 ## Features
